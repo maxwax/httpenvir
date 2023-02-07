@@ -1,6 +1,6 @@
 ---
 name: Github Actions Lab
-# simplest workflow possible
+# simplest workflow possible!
 
 on:
   push:
