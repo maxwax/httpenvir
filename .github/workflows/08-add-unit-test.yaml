@@ -48,7 +48,7 @@ jobs:
         id: docker_meta
         uses: docker/metadata-action@v3
         with:
-          images: bretfisher/allhands22
+          images: maxwax/actionslab
           flavor: |
             latest=false
           tags: |
